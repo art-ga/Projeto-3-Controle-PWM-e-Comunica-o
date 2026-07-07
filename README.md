@@ -1,6 +1,8 @@
 
 # RELATÓRIO TÉCNICO: CONTROLE PWM DE ATUADORES E MOTORES COM ESP32 NO SIMULADOR WOKWI
 
+Por: Antonio Rosa Galindo de Andrade nUSP 15440868
+
 ## 1. RESUMO
 
 Este trabalho apresenta o desenvolvimento, a simulação e a validação de sistemas 
